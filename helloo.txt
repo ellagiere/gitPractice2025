@@ -1,1 +1,3 @@
-hi. hey are you?
+<<<<<<< HEAD
+hi. hey are you? hi erika!!
+>>>>>>> 0348f4e98147e3ae3f815a11647cb71b502a5370
